@@ -8,7 +8,7 @@
   - Biobay
   - Biosano
 - 2 Personas
-  y favorite search engine is [Persona 1](https://https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/Persona%20%231.pdf).
+  ![foto1](persona1.png)
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
