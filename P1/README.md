@@ -13,18 +13,18 @@
   - [EcoMercado de Granada](https://ecomercadogranada.org/): Esta es la que menos nos ha gustado, ya que solo mantienen actualizadas sus redes sociales, ademas no realizan venta online, por lo que si bien a nivel local puede ser una opcion muy atractiva, el hecho de no tener una web actualizada ni la opcion de vender productos online le quita muchos puntos.
   - [Valle&Vega](https://valleyvega.org/): Es una de las mejores opciones disponibles en Granada ya que permite la recogida del producto en diversos comercios locales, asi como envio a domicilio, para que el pedido sea gratuito debe tener un coste mayor a 60€, aunque esto solo se aplica a Granada. Junto a la anterior, es la mejor opcion para apoyar a los agricultores locales.
 
-|EMPRESAS                             | EcoMercado      | Valle&Vega | Ecocentro     | Naturitas   | Biobay      | Biosano  |
-| :------:                            | :------:        | :------:   |  :------:     | :------:    |  :------:   | :------: |
-| Buscador (0.5)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
-| Contacto (0.5)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
-| Venta online (2.5)                  | NO              |  SI        |     SI        | SI          | SI          | SI       |
-| Accesibilidad (0.5)                 | SI              |  NO        |     NO        | NO          | NO          | NO       |
-| Responsive (1)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
-| Realiza envios (1.5)                | NO              |  SI        |     SI        | SI          | SI          | SI       |
-| Registro (0.5)                      | NO              |  SI        |     NO        | SI          | NO          | SI       |
-| Venta de productos frescos (2)      | SI              |  SI        |     SI        | NO          | NO          | NO       |
-| Recogida local (Granada) (1)        | SI              |  SI        |     NO        | NO          | NO          | NO       |
-| Nota sobre 10                       | 6               |  9         |     8.5       |  6          | 6           | 6        | 
+    |EMPRESAS                             | EcoMercado      | Valle&Vega | Ecocentro     | Naturitas   | Biobay      | Biosano  |
+    | :------:                            | :------:        | :------:   |  :------:     | :------:    |  :------:   | :------: |
+    | Buscador (0.5)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
+    | Contacto (0.5)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
+    | Venta online (2.5)                  | NO              |  SI        |     SI        | SI          | SI          | SI       |
+    | Accesibilidad (0.5)                 | SI              |  NO        |     NO        | NO          | NO          | NO       |
+    | Responsive (1)                      | SI              |  SI        |     SI        | SI          | SI          | SI       |
+    | Realiza envios (1.5)                | NO              |  SI        |     SI        | SI          | SI          | SI       |
+    | Registro (0.5)                      | NO              |  SI        |     NO        | SI          | NO          | SI       |
+    | Venta de productos frescos (2)      | SI              |  SI        |     SI        | NO          | NO          | NO       |
+    | Recogida local (Granada) (1)        | SI              |  SI        |     NO        | NO          | NO          | NO       |
+    | Nota sobre 10                       | 6               |  9         |     8.5       |  6          | 6           | 6        | 
 
 - 2 Personas
 
