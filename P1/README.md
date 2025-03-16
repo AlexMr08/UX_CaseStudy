@@ -2,11 +2,13 @@
 
 
 - Desk research: Análisis Competencia
+
   Tras investigar internet en busca de comptencia hemos encontrado las siguientes paginas webs:
   - [Ecocentro](https://www.ecocentro.es/tienda/): Es una web de un mercado ecologico afincado en Madrid, es seguramente el mas parecido a Valle&Vega, su principal problema es que actualmente limita la entrega de productos frescos a Madrid. Tiene envio gratuito a partir de 60€. Ademas incluye una seccion para buscar restaurantes bio-vegetarianos.
   - [Naturitas](https://www.naturitas.es/): Es una de las webs con mas productos que hemos encontrado, aunque se aleja un poco del modelo de mercado sostenible, aunque sigue vendiendo productos ecologicos. Tiene un programa de puntos que te permite obtener descuentos. El envio es gratuito a partir de 49€.
   - [Biobay](https://biobay.es/): Al igual que la anterior no vende productos frescos aunque añade productos veganos que las otras alternativas no suelen ofrecer. Tiene envio gratuito a partir de 79€.
   - [Biosano](https://biobay.es/): Es similar a las 2 anteriores, pero seguramente es la que tiene menos productos de alimentacion. Tiene envio gratuito a partir de 49€.
+  
   Ademas de las 2 dadas:
   - [EcoMercado de Granada](https://ecomercadogranada.org/): Esta es la que menos nos ha gustado, ya que solo mantienen actualizadas sus redes sociales, ademas no realizan venta online, por lo que si bien a nivel local puede ser una opcion muy atractiva, el hecho de no tener una web actualizada ni la opcion de vender productos online le quita muchos puntos.
   - [Valle&Vega](https://valleyvega.org/): Es una de las mejores opciones disponibles en Granada ya que permite la recogida del producto en diversos comercios locales, asi como envio a domicilio, para que el pedido sea gratuito debe tener un coste mayor a 60€, aunque esto solo se aplica a Granada. Junto a la anterior, es la mejor opcion para apoyar a los agricultores locales.
