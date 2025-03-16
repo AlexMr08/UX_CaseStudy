@@ -1,9 +1,9 @@
 ## DIU - Practica1, entregables
 
-- [User research plan](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/researchPlan.pdf)
-  ![researchPlan](researchPlan.png)
-
 - Desk research: Análisis Competencia
+
+  ## [User research plan](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/researchPlan.pdf)
+    ![researchPlan](researchPlan.png)
 
   Tras investigar internet en busca de comptencia hemos encontrado las siguientes paginas webs:
   - [Ecocentro](https://www.ecocentro.es/tienda/): Es una web de un mercado ecologico afincado en Madrid, es seguramente el mas parecido a Valle&Vega, su principal problema es que actualmente limita la entrega de productos frescos a Madrid. Tiene envio gratuito a partir de 60€. Ademas incluye una seccion para buscar restaurantes bio-vegetarianos.
@@ -26,8 +26,11 @@
     | Registro (0.5)                      | NO              |  SI        |     NO        | SI          | NO          | SI       |
     | Venta de productos frescos (2)      | SI              |  SI        |     SI        | NO          | NO          | NO       |
     | Recogida local (Granada) (1)        | SI              |  SI        |     NO        | NO          | NO          | NO       |
-    | Nota sobre 10                       | 6               |  9         |     8.5       |  6          | 6           | 6        | 
+    | Nota sobre 10                       | 6               |  9         |     8.5       |  6          | 6           | 6        |
 
+  ## [Analisis de la competencia](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/competitorAnalysis.pdf)
+    ![competitorAnalysis](competitorAnalysis.png)
+    
 - 2 Personas
 
   Hemos creado 2 personas, una por cada miembro del equipo. Estas son Armando y Gara. El primero es un militar jubilado que reside en Cortes de Baza. La segunda una diseñadora grafica que reside en la periferia de Granada.
