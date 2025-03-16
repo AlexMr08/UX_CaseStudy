@@ -33,7 +33,7 @@
     
 - 2 Personas
 
-  Hemos creado 2 personas, una por cada miembro del equipo. Estas son Armando y Gara. El primero es un militar jubilado que reside en Cortes de Baza. La segunda una diseñadora grafica que reside en la periferia de Granada.
+  Hemos creado 2 personas, una por cada miembro del equipo. Estas son Armando y Gara. El primero es un militar jubilado que reside en Cortes de Baza. La segunda una diseñadora grafica que reside en la periferia de Granada. Hemos pasado por varias etapas a la hora de crear a las personas, originalmente solo una era de Granada, pero dado que las principales alternativas solo se encuentran en Granada y que Armando ya vivia fuera del nucleo urbano de Granada, decidimos hacer que Gara si que habite en este. Esto nos permite ver como nuestras personas interactuan con las distintas paginas que permiten recogida en comercios locales y envios a domicilio.
   
   ## [Armando Guerra](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/persona1.pdf)
   ![persona1](persona1.png)
@@ -43,7 +43,7 @@
   
 - 2 User Journey Map  ( 1 por persona)
 
-  Hemos creado 2 journey map. El primero se basa en \<no esta aun\>. El segundo cuenta la primera experiencia de Gara con Valle&Vega, tras decidir probar la web, encuentra una serie de cosas que no le gustan demasiado en el proceso de compra, aunque esto no hace que deje de usar la web ya que las alternativas no tienen todo lo que busca.
+  Hemos creado 2 journey map. El primero cuenta como Armando descubre la web gracias a Facebook y tras comprobar que sea realmente ecologica, decide realizar un pedido, en el cual compra el doble de un producto por culpa de la poca retroalimentacion de este, aun asi el envio se realiza de forma rapido . El segundo cuenta la primera experiencia de Gara con Valle&Vega, tras decidir probar la web, encuentra una serie de cosas que no le gustan demasiado en el proceso de compra, aunque esto no hace que deje de usar la web ya que las alternativas no tienen todo lo que busca.
 
   ## [Journey Map de Armando](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/journeyMap1.pdf)
   ![journeyMap1](journeyMap1.png)
@@ -55,7 +55,7 @@
   
   ## [Revision de usabilidad](usabilityReserach.pdf)
 
+  ## Briefing
+
   Hemos realizado la revision de usabilidad a Valle&Vega, ya que creemos que es nuestra competencia mas fuerte y la mejor opcion en el mercado local, actualmente.
 En general, la web tiene muchisimas cosas buenas y algunas que deben mejorar, pero no hemos encontrado cosas que destaquen de forma muy negativa. Las cosas a mejorar son sobre todo referentes a su herramienta de busqueda que no permite ciertas acciones relativamente basicas como el filtrado de productos. El feedback no siempre es bueno, como hemos mencionado, ciertos botones caracen de interaccion al ser pulsados, ocasionando ciertas dudas sobre si hemos pulsado correctamente o no. Tambien hemos notado que en los formularios no se nos indica un ejemplo que facilite rellenarlo o que si enviamos el formulario con un dato erroneo, este suele borrar otros campos validos. Su rendimiento es bastante bueno, aunque a veces tarda un poco en cargar. Hasta ahora solo nos hemos centrado en cosas negativas, pero no hemos hablado de cosas positivas, esta web destaca en que su uso es bastante sencillo y que esta todo bien organizado. La pagina de inicio pese a tener demasiados espacios en blanco tiene informacion interesante y es bastante facil de usar para nuevos usuarios.
-
-- 
