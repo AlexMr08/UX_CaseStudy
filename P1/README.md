@@ -42,7 +42,7 @@
   ![journeyMap1](journeyMap1.png)
 
   ## [Journey Map de Gara](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/journeyMap2.pdf)
-  ![journeyMap2](journey2Map.png)
+  ![journeyMap2](journeyMap2.png)
   
 - Revisión de Usabilidad 
 
