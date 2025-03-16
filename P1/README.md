@@ -1,5 +1,7 @@
 ## DIU - Practica1, entregables
 
+- [User research plan](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/researchPlan.pdf)
+  ![researchPlan](researchPlan.png)
 
 - Desk research: Análisis Competencia
 
