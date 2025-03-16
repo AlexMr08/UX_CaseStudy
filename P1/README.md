@@ -51,10 +51,11 @@
   ## [Journey Map de Gara](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/journeyMap2.pdf)
   ![journeyMap2](journeyMap2.png)
   
-- Revisión de Usabilidad 
+- Revisión de Usabilidad y briefing
+  
+  ## [Revision de usabilidad](usabilityReserach.pdf)
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+  Hemos realizado la revision de usabilidad a Valle&Vega, ya que creemos que es nuestra competencia mas fuerte y la mejor opcion en el mercado local, actualmente.
+En general, la web tiene muchisimas cosas buenas y algunas que deben mejorar, pero no hemos encontrado cosas que destaquen de forma muy negativa. Las cosas a mejorar son sobre todo referentes a su herramienta de busqueda que no permite ciertas acciones relativamente basicas como el filtrado de productos. El feedback no siempre es bueno, como hemos mencionado, ciertos botones caracen de interaccion al ser pulsados, ocasionando ciertas dudas sobre si hemos pulsado correctamente o no. Tambien hemos notado que en los formularios no se nos indica un ejemplo que facilite rellenarlo o que si enviamos el formulario con un dato erroneo, este suele borrar otros campos validos. Su rendimiento es bastante bueno, aunque a veces tarda un poco en cargar. Hasta ahora solo nos hemos centrado en cosas negativas, pero no hemos hablado de cosas positivas, esta web destaca en que su uso es bastante sencillo y que esta todo bien organizado. La pagina de inicio pese a tener demasiados espacios en blanco tiene informacion interesante y es bastante facil de usar para nuevos usuarios.
 
 - 
