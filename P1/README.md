@@ -29,7 +29,7 @@
     | Nota sobre 10                       | 6               |  9         |     8.5       |  6          | 6           | 6        |
 
   ## [Analisis de la competencia](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/competitorAnalysis.pdf)
-    ![competitorAnalysis]()
+    ![competitorAnalysis](competitorAnalysis)
     
 - 2 Personas
 
