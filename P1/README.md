@@ -53,7 +53,7 @@
   
 - ## Revisión de Usabilidad y briefing
   
-  ### [Revision de usabilidad](usabilityReserach.pdf)
+  ### [Revision de usabilidad](https://github.com/AlexMr08/UX_CaseStudy/blob/master/P1/usabilityReview.pdf)
 
   ### Briefing
 
