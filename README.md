@@ -9,11 +9,11 @@ Actualizado: xx/xx/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+AgroRed
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El proyecto va a desarrollar una página web donde agricultores locales pueden vender sus productos directamente a los clientes finales, evitando intermediarios y limitando transportes innecesarios. Aquí cada agricultor podrá poner en venta su producto al precio que le convenga, para que no se produzcan pérdidas monetarias en su trabajo, como está sucediendo en los últimos años. Esta aplicación tiene el objetivo de no solo beneficiar al vendedor y al cliente, sino también reducir el perjuicio en el ecosistema. Si propiciamos el cultivo de productos autóctonos desarrollados en su medio adaptativo, conseguiremos un mejor uso del agua, mucho más eficiente. Esto también nos lleva a la conclusión, de que el uso de fertilizantes y pesticidas será significativamente inferior ya que, la planta tiene sus propios medios naturales para protegerse.
 
 Logotipo: 
 
