@@ -17,7 +17,7 @@ El proyecto va a desarrollar una página web donde agricultores locales pueden v
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![LogoAgroRed](img/ChatGPT Image 2 abr 2025, 18_57_01.png) 
 
 Miembros:
  * :bust_in_silhouette:  AA     :octocat:     
