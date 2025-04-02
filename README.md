@@ -17,7 +17,7 @@ El proyecto va a desarrollar una página web donde agricultores locales pueden v
 
 Logotipo: 
 
-![LogoAgroRed](img/ChatGPT Image 2 abr 2025, 18_57_01.png) 
+![LogoAgroRed](img/ChatGPTImage2abr2025-18_57_01.png) 
 
 Miembros:
  * :bust_in_silhouette:  AA     :octocat:     
