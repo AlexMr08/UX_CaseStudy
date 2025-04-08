@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU1.AlexMarcos  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 08/04/2025
 
 Proyecto: 
 
@@ -17,11 +17,11 @@ El proyecto va a desarrollar una página web donde agricultores locales pueden v
 
 Logotipo: 
 
-![LogoAgroRed](img/ChatGPTImage2abr2025-18_57_01.png) 
+<img src="img/ChatGPTImage2abr2025-18_57_01.png" alt="Logo AgroRed" width="300" height="200"/>
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Alejandro Molina Ruiz     :octocat:     
+ * :bust_in_silhouette:  Marcos Ruiz Guerrero     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
