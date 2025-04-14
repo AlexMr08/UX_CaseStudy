@@ -18,7 +18,7 @@
 * User Task Matrix
   ![ScopeCanvas](Resources/Matriz_tareas.xlsx)
 * User/Task flow
-![ScopeCanvas](Resources/Feedback_Capture_Grid.png)
+![ScopeCanvas](Resources/User_Flow_Design.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
