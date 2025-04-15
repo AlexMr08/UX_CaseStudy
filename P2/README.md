@@ -5,8 +5,6 @@
   ![Malla receptora de información](Resources/Feedback_Capture_Grid.png)
 * Mapa de empatía
   ![Mapa de empatía](Resources/Empathy_Mapping.png)
-* Point of View
-![Point of View](Resources/Feedback_Capture_Grid.png)
 
 
 ### PROPUESTA DE VALOR
