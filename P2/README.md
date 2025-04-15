@@ -9,7 +9,7 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
-![ScopeCanvas](Resources/Feedback_Capture_Grid.png)
+![ScopeCanvas](Resources/Scope_Canvas.png)
 
 ### TASK ANALYSIS
 
