@@ -66,8 +66,23 @@
   
 * Labelling
   
-  <<TODO>>
-
+  | Nombre | Descripción |
+  | --- | --- |
+  | Main (index.html) | Página de inicio de la web |
+  | Iniciar sesión (login.html) | Página de inicio de sesión, que nos permite además acceder al registro. |
+  | Registrarse (signin.html) | Página donde podremos registrarnos en la web. |
+  | Mi cuenta (account.html) | Página que contendrá nuestros datos personales y donde podremos modificarlos. Además tendrá el historial de pedidos que hemos realizado. |
+  | Mi cuenta agricultor (administration.html) | Al igual que la anterior, mostrará y permitirá modificar la información del agricultor, será donde podrá ańadir productos agrícolas y donde verá los pedidos que le han realizado. |
+  | Cesta (cart.html) | Mostrará los elementos que el usuario tiene en la cesta y contendrá un botón para empezar el proceso de compra. |
+  | Pasarela de pago (pay.html) | Sitio donde rellenaremos los datos necesarios para el pedido y donde se realiza el pago. |
+  | Orden (order.html) | Nos muestra el resumen del pedido y podremos cancelarlo o modificar los datos de entrega. Cuando se haya entregado, se podrá valorar el producto. |
+  | Suscribete (subscribe.html) | Nos mostrará información sobre la suscripción y permitirá iniciar el proceso para obtener sus ventajas. |
+  | Sobre nosotros (aboutus.html) | Muestra información sobre nosotros, la empresa agrored. |
+  | Vende con nosotros (job.html) | Te muestra cómo puedes trabajar con nosotros y sus ventajas, además te permite acceder al registro de agricultores. |
+  | Registrar agricultor (register.html) | Permite el registro del agricultor en la plataforma. |
+  | Agricultores (farmers.html) | Nos mostrará un listado de todos los agricultores, que además contendrá un mapa con la ubicación de los que hayan ańadido su ubicación exacta. |
+  | Agricultor (farmer.html) | Nos mostrará la información del agricultor y todos los productos que vende, además habrá un mapa con su ubicación en caso de disponer de esta. |
+  
 ### Prototipo Lo-FI Wireframe 
 
   Por ultimo hemos creado 8 wireframes, los 4 primeros son los mismos usados para el user/task flow y los 4 ultimos son de las acciones mas importantes de una web, esten o no en las primeras posiciones de la tabla de acciones. Estas seran la pagina de inicio de sesion, la de registro, la pagina principal y la pagina que nos muestra la informacion de un objeto.
