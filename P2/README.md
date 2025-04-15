@@ -29,7 +29,8 @@
 
 
 ### Prototipo Lo-FI Wireframe 
-
+![Wireframe1](Resources/wireframes2.jpg)
+![Wireframe2](Resources/wireframes1.jpg)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
