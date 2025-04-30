@@ -17,7 +17,7 @@ El proyecto va a desarrollar una página web donde agricultores locales pueden v
 
 Logotipo: 
 
-<img src="img/ChatGPTImage2abr2025-18_57_01.png" alt="Logo AgroRed" width="300" height="200"/>
+<img src="img/ChatGPTImage2abr2025-18_57_01.png" alt="Logo AgroRed" width="300" height="300"/>
 
 Miembros:
  * :bust_in_silhouette:  Alejandro Molina Ruiz     :octocat:     
