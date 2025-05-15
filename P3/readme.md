@@ -10,6 +10,21 @@
   ![Landing Page 1](landing_page_1.png)
   ![Landing Page 1](landing_page_2.png)
   ![Landing Page 1](landing_page_3.png)
+
+-Guidelines
+
+Onboarding: sera la pagina que encuentra el usuario al abrir la aplicacion por primera vez. Esta tendra nuestro logo, junto a la frase motivacional del landing page y un boton para continuar que nos llevara al inicio de sesion.
+Menu de navegacion: Usaremos el ya clasico menu inferior con 4 botones de material 3, que haran referencia a la pagina principal, el buscador, el carrito y por ultimo nuestro perfil.
+Hero image + carousel: Se usara para mostrar ofertas y promociones en la pagina principal y para mostrar imagenes del producto seleccionado.
+Search: Se usara para que el usuario pueda buscar los poductos.
+Wizards:
+Article list: Usaremos las listas proporcionadas por material 3 para que el usuario vea los productos que hay disponibles en cada momento. Ademas en el perfil de usuario se mostrara un listado con los pedidos realizados.
+Item details + actions:
+Reserva:
+Form input: Se usaran formularios para iniciar sesion y registrarse, ademas tendremos un formulario de contacto. Para todos ellos usaremos los componentes disponibles en material 3.
+shopping cart: Mostrara una lista con los productos que hay en el carrito, ademas encontraremos un boton para finalizar la compra.
+About: Mostrara informacion sobre nosotros.
+
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
