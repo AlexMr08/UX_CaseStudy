@@ -11,24 +11,33 @@
   ![Landing Page 1](landing_page_2.png)
   ![Landing Page 1](landing_page_3.png)
 
--Guidelines
+- Guidelines
 
-Onboarding: sera la pagina que encuentra el usuario al abrir la aplicacion por primera vez. Esta tendra nuestro logo, junto a la frase motivacional del landing page y un boton para continuar que nos llevara al inicio de sesion.
+  - Onboarding: sera la pagina que encuentra el usuario al abrir la aplicacion por primera vez. Esta tendra nuestro logo, junto a la frase motivacional del landing page y un boton para continuar que nos llevara al inicio de sesion.
 Menu de navegacion: Usaremos el ya clasico menu inferior con 4 botones de material 3, que haran referencia a la pagina principal, el buscador, el carrito y por ultimo nuestro perfil.
-Hero image + carousel: Se usara para mostrar ofertas y promociones en la pagina principal y para mostrar imagenes del producto seleccionado.
-Search: Se usara para que el usuario pueda buscar los poductos.
-Wizards:
-Article list: Usaremos las listas proporcionadas por material 3 para que el usuario vea los productos que hay disponibles en cada momento. Ademas en el perfil de usuario se mostrara un listado con los pedidos realizados.
-Item details + actions:
-Reserva:
-Form input: Se usaran formularios para iniciar sesion y registrarse, ademas tendremos un formulario de contacto. Para todos ellos usaremos los componentes disponibles en material 3.
-shopping cart: Mostrara una lista con los productos que hay en el carrito, ademas encontraremos un boton para finalizar la compra.
-About: Mostrara informacion sobre nosotros.
+
+  - Hero image + carousel: Se usara para mostrar ofertas y noticias en la pagina principal y para mostrar imagenes del producto seleccionado.
+  
+  - Search: Se usara para que el usuario pueda buscar los poductos, estar situado en la app bar.
+
+  - Wizards: Hemos usado un wizard para el proceso de compra. Este esta compuesto de 4 puntos, el primero para introducir datos personales y direccion, un segundo para elegir metodo de pago e introducirlo, el tercero para revisar el pedido y finalmente el cuarto para ver un resumen del pedido tras realizar la compra.
+
+  - Article list: Usaremos listas para mostrar los productos, asi como los distintos pedidos realizados por el usuario.
+
+  - Item details + actions: Los usaremos para mostrar detalles de cada producto, y tendremos una accion para añadirlo al carrito.
+
+  - Form input: Se usaran formularios para iniciar sesion y registrarse, ademas tendremos un formulario de contacto y los necesarios para el proceso de pago. Para todos ellos usaremos los componentes disponibles en material 3.
+
+  - shopping cart: Mostrara una lista con los productos que hay en el carrito, ademas encontraremos un boton para finalizar la compra.
+
+  - About: Mostrara informacion sobre nuestra empresa.
 
 - Mockup: LAYOUT HI-FI
+
+Hemos realizado un mockup de la aplicacion movil usando componentes de material designs y otros basandonos en estos que nos aportan la disposicion que necesitamos.
+[Mockup](https://www.figma.com/proto/fEPwFvG5xXuyaPYDpQoL0X/DIU_Toolkit_Framework--beta-2025-?node-id=40000423-4905&t=IEMiHceNXHkL5vh3-0&scaling=contain&content-scaling=fixed&page-id=18%3A14661&starting-point-node-id=40000423%3A5027)
 - Publicación del Case Study
 
 ## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Hemos aprendido a usar figma para hacer un mockup, pese a que no nos dejase usar todas las opciones por nuestro tipo de cuenta, de ahi a que haya ciertas cuestiones referentes a las distintas variables mejorables. Ademas hemos ido mejorando nuestra eleccion de colores inicial ya que a la hora de realizar el mockup se nos quedaba corta o no nos permitia hacer ciertas cosas con ella. Ademas hemos realizado un landing page que tiene su propia personalidad, huyendo del patron en F tan tipico de las webs.
