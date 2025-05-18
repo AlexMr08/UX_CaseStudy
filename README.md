@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  [Alejandro Molina Ruiz](https://github.com/AlexMr08)     :octocat:     
- * :bust_in_silhouette:  [Marcos Ruiz Guerrero]()     :octocat:
+ * :bust_in_silhouette:  [Marcos Ruiz Guerrero](https://github.com/marcosarmilla)     :octocat:
 ----- 
 
 
