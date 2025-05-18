@@ -20,11 +20,8 @@ Logotipo:
 <img src="img/ChatGPTImage2abr2025-18_57_01.png" alt="Logo AgroRed" width="300" height="300"/>
 
 Miembros:
- * :bust_in_silhouette:  Alejandro Molina Ruiz     :octocat:     
- * :bust_in_silhouette:  Marcos Ruiz Guerrero     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
+ * :bust_in_silhouette:  [Alejandro Molina Ruiz](https://github.com/AlexMr08)     :octocat:     
+ * :bust_in_silhouette:  [Marcos Ruiz Guerrero]()     :octocat:
 ----- 
 
 
@@ -37,74 +34,103 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Hemos estado investigando sobre mercados sostenibles, buscando una buena forma de lanzarnos a este mercado en busca de aumentar la competencia y añadir una nueva alternativa para la gente que busca comida mas saludable y economica, ademas de ayudar a los productores locales. Para ello debemos determinar la viabilidad del mercado, identificar las necesidades y las preferencias tanto de agricultores como de consumidores y evaluar el impacto ambiental y economico de esta actividad. Ademas debemos preguntarnos ciertas cuestiones como si estamos, como sociedad concienciados con el medioambiente o si este proyecto tendra un impacto positivo en el ecosistema.
+Por ultimo debemos realizar un estudio basado en nuesta experiencia y en la observacion.
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Desarrollaremos una pagina y una aplicacion movil que ponga en contacto a agricultores y a potenciales clientes, de forma que los agricultores puedan vender sus productos reduciendo el numero de intermediarios presentes en el proceso de venta, haciendo a su vez que el precio del producto se reduzca. Ademas buscamos reducir el perjuicio en el ecosistema propiciando el cultivo de productos autoctonos y a su vez reduciendo el desperdicio de agua y el uso de pesticidas.
+
+Para la seleccion de participantes, buscaremos la ayuda de agricultores concienciados con la agricultura sostenible, personas que buscan tener una vida mas saludable o hosteleros que busquen mejorar la calidad de sus productos.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos realizado un estudio de la competencia en base a una serie de propuestas que se encuentran disponibles en el mercado.
+Empezamos con ecomercado de granada, esta propuesta es la que menos nos ha gustado ya que solo actualizan sus redes sociales, aunque en ellas informa sobre cuando y donde se realizara el proximo mercado en Granada.
+Luego tenemos Valle&Vega, esta nos ha parecido de las mejores opciones, ya que permite la recogida en diversos locales de Granada, pero tiene un problema que comparten la mayoria, el envio gratuito parte de los 60 euros.
+Seguimos con ecocentro, que esta afincada en Madrid, es parecido a Valle&Vega pero el reparto de productos frescos se limita a Madrid. Su envio gratuito parte de 49€.
+Otra alternativa es Naturitas, esta se aleja del modelo de mercado sostenible y se centra mas en la venta de productos ecologicos, pero prescindiendo de frutas y verduras.
+Tambien esta Biobay, que tampoco vende productos frescos pero si que vende productos veganos. Su envio gratuito empieza en 79€.
+Finalizamos con Biosano, que se parece bastante a las 2 anteriores pero tiene menos productos alimenticios. Su envio gratuito arranca en 49€.
 
+Por todo lo anteriormente citado, haremos el analisis de competencia en base a Ecomercado y Valle&Vega por su cercania a nuestra alternativa y a Biosano porque es la que mas se aleja de nuestra alternativa.
+
+Tras realizar el analisis vemos como la competencia mas fuerte sera Valle&Vega.
+
+![Analisis de competencia](P1/competitorAnalysis.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+- Armando Guerra
+
+Es un soldado jubilado tras perder las piernas en la guerra, es una persona voluntariosa y agresiva, aunque tiene un fondo compasivo. Una de sus preocupaciones es la gran deforestacion que se esta produciendo en diversas zonas. Una de sus metas es concienciar a la gente en temas polemicos como el cambio climatico o los derechos humanos.
+![ArmandoGuerra](P1/persona1.png)
+
+- Gara Suarez
+
+Es una chica nacida en Canarias, que se mudo a Granada de pequeña, es diseñadora grafica, aunque inicialmente estudio turismo. Una de sus metas es abrir su propio estudio de diseño y una de sus preocupaciones es el gran daño que esta realizando el cambio climatico en la biodiversidad.
+![GaraSuarez](P1/persona2.png)
+
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+- Journey Map de Armando
 
+Armando es una persona temperamental, al usar Valle&Vega compra dos veces el mismo producto, en parte por despiste, pero tambien por la ausencia de un feedback positivo en la web. Esto le lleva a enfadarse, pese a esto, tras recibir el pedido y ver que llega en buenas condiciones, se pregunta si merece la pena seguir comprando en el sitio. Esto no tiene por que ser habitual, ya que pese al poco feedback de la web, si revisamos el carrito evitaremos estos problemas.
+![JourneMapArmando](P1/journeyMap1.png)
+
+- Journey Map de Gara
+
+Gara conoce la web Valle&Vega por un amigo, que le cuenta lo bien que esta. Tras entrar en la web, esta no le sorprende a nivel visual, aun asi decide arriesgarse, al llegar terminar de elegir que comprar y proceder a rellenar sus datos ve como se piden muchos datos que no deberian ser necesarios y esto le molesta, aunque finalmente realiza la compra y finalmente sigue comprando en esta, aunque no termina de convencerle. Esto es habitual sobre todo en gente a la que le moleste introducir muchos datos en internet. 
+![JourneMapGara](P1/journeyMap1.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace: [Usability Review](P1/usabilityReview.pdf)
+- [Valle&Vega](https://valleyvega.org/) - Nota: 80
+- Sus puntos mas debiles se encuentran sobre todo en la busqueda ya que no permite filtrar mas haya del nombre y no se puede ordenar por popularidad. Otro punto deil es el mal feedback visual que tiene la pagina. Sus principales puntos fuertes son que su navegacion por el sitio es muy buena y el rendimiento de la web es bastante bueno, aunque a veces tarda un poco en cargar.
 
 <br>
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Tras lo visto anteriormente realizamos una malla receptora de informacion en base a lo visto en la competencia, tenemos los puntos fuertes, como que hay algunas empresas que realizan envios refrigerados, o que los productos estan bien organizados, pero tambien puntos deviles como que la mayoria tiene un coste muy alto para realizar el envio de forma gratuita o que hay opciones en las dependiendo del dia habra ciertos productos o se habran acabado.
+Nuestras personas ademas se realizaron ciertas preguntas tales como si se podrian realizar compras recurrentes o si se contamina lo mismo o mas haciendo el pedido online.
+Por ultimo tenemos una serie de ideas que se nos han ocurrido a nosotros, como el realizar envios a diario o realizar los envios con vehiculos hibridos o electricos para reducir aun mas la contaminacion.
 
+![Malla receptora](P2/Resources/Feedback_Capture_Grid.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+Ademas hemos realizado un mapa de empatia en el que nuestras personas cuentan lo que ven, lo que siente, dicen, piensan y escuchan, ademas de sus dolores y sus beneficios. Asi vemos como Armando se pregunta si deberia tener su propio huerto o como ve que han cerrado la fruteria de su barrio y que uno de sus dolores es si es el unico que se preocupa por el medio ambiente. Luego tenemos a Gara que escuha que las verduras llevan demasiados quimicos o como se queja del poco tiempo que tiene para salir a pasear y como uno de sus dolores es ver comercios locales cerrar.
+
+![Mapa de empatia](P2/Resources/Empathy_Map.png)
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Como podemos ver nuestro proposito es cuidar a nuestros agricultores y al medio ambiente, ademas de a nuestros potenciales clientes gracias a reducir el gasto en alimentos frescos y a la vez aumentando el margen de ganancias de nuestros agricultores, ademas de ser mas transparentes con el origen del producto. Para hacer esto nos ponemos como objetivos a corto plazo el disponer de una plataforma con varios metodos de pago, ademas de añadir opciones de recogida en la ubicacion del agricultor o de fomentar la compra de productos mas sanos. A mas largo plazo, nos gustaria disponer de acuerdos con empresas de transporte verdes o crear mapas con las localizaciones de los distintos agricultores. De forma que los usuarios de nuestro producto, puedan buscar y comprar productos agricolas y que nuestros agricultores puedan vender su producto, entre otras acciones.
+
+![ScopeCanvas](P2/Resources/Scope_canvas.png)
 
 
 
@@ -112,31 +138,34 @@ Miembros:
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+Hemos realizado una de las actividades mas importantes de la plataforma, la compra de productos, en esta, suponemos que el cliente ya tiene la sesion iniciada y productos en la cesta, por lo que procede unicamente a acceder al carrito, rellenar los datos de envio y los datos de pago, para acabar viendo que su pedido se ha realizado correctamente.
+![User flow map](P2/Resources/User_Flow_Design.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+- Sitemap:
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+ ![SiteMap](P2/Resources/SiteMap.png)
 
+- Labelling:
+
+ [Labeling](P2/Resources/Labeling.pdf)
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+- Hemos realizado los wireframes a mano
 
+ ![Wireframes1](P2/Resources/wireframes1.jpg)
+ 
+ ![Wireframes2](P2/Resources/wireframes2.jpg)
+ 
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 3.a Moodboard
@@ -147,35 +176,67 @@ Término | Significado
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
+Para el moodboard hemos usado figma que nos ha permitido hacer una tablero bastante atractivo visualmente con todas los apartados necesarios.
+
+Para el logo, hemos usado una IA para el diseño base, aunque posteriormente hemos usado inkscape para hacer las distintas variaciones y pasar el logo a un formato vectorial.
+
+Para la seleccion de colores empezamos con una gama cromatica basada en un tono de verde bastante claro, que recuerda a la naturaleza y un gris oscuro para tener suficiente contraste, posteriormente usamos [coolors](https://coolors.co/) para buscar colores adicionales.
+
+![Mood board](P3/mood_board.png)
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+La landing page estara compuesta por una pagina que en base a que boton pulses mostrara una informacion u otra, ademas podremos realizar 2 acciones, registrarnos o acceder a la tienda.
+Como podemos ver, ademas se desvincula del patron en F para darle mas personalidad al sitio.
+
+![landing1](P3/landing_page_1.png)
+![landing1](P3/landing_page_2.png)
+![landing1](P3/landing_page_3.png)
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+  - Onboarding: sera la pagina que encuentra el usuario al abrir la aplicacion por primera vez. Esta tendra nuestro logo, junto a la frase motivacional del landing page y un boton para continuar que nos llevara al inicio de sesion.
+Menu de navegacion: Usaremos el ya clasico menu inferior con 4 botones de material 3, que haran referencia a la pagina principal, el buscador, el carrito y por ultimo nuestro perfil.
+
+  - Hero image + carousel: Se usara para mostrar ofertas y noticias en la pagina principal y para mostrar imagenes del producto seleccionado.
+  
+  - Search: Se usara para que el usuario pueda buscar los poductos, estar situado en la app bar.
+
+  - Wizards: Hemos usado un wizard para el proceso de compra. Este esta compuesto de 4 puntos, el primero para introducir datos personales y direccion, un segundo para elegir metodo de pago e introducirlo, el tercero para revisar el pedido y finalmente el cuarto para ver un resumen del pedido tras realizar la compra.
+
+  - Article list: Usaremos listas para mostrar los productos, asi como los distintos pedidos realizados por el usuario.
+
+  - Item details + actions: Los usaremos para mostrar detalles de cada producto, y tendremos una accion para añadirlo al carrito.
+
+  - Form input: Se usaran formularios para iniciar sesion y registrarse, ademas tendremos un formulario de contacto y los necesarios para el proceso de pago. Para todos ellos usaremos los componentes disponibles en material 3.
+
+  - shopping cart: Mostrara una lista con los productos que hay en el carrito, ademas encontraremos un boton para finalizar la compra.
+
+  - About: Mostrara informacion sobre nuestra empresa.
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Dejamos por aqui nuestro [mockup](P3/mockup.png)
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Para ver el proyecto en: 
+
+- [Proyecto en general](https://www.figma.com/design/fEPwFvG5xXuyaPYDpQoL0X/DIU_Toolkit_Framework--beta-2025-?node-id=18-14661&p=f&t=Gpi5thvdt7WQ5GbI-0)
+
+- [Mockup](https://www.figma.com/proto/fEPwFvG5xXuyaPYDpQoL0X/DIU_Toolkit_Framework--beta-2025-?node-id=40000423-5027&p=f&t=Gpi5thvdt7WQ5GbI-0&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661&starting-point-node-id=40000423%3A5027)
 
 <br>
 
