@@ -25,7 +25,7 @@ Miembros:
 ----- 
 
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
+
 
 
 # Proceso de Diseño 
@@ -93,7 +93,7 @@ Armando es una persona temperamental, al usar Valle&Vega compra dos veces el mis
 - Journey Map de Gara
 
 Gara conoce la web Valle&Vega por un amigo, que le cuenta lo bien que esta. Tras entrar en la web, esta no le sorprende a nivel visual, aun asi decide arriesgarse, al llegar terminar de elegir que comprar y proceder a rellenar sus datos ve como se piden muchos datos que no deberian ser necesarios y esto le molesta, aunque finalmente realiza la compra y finalmente sigue comprando en esta, aunque no termina de convencerle. Esto es habitual sobre todo en gente a la que le moleste introducir muchos datos en internet. 
-![JourneMapGara](P1/journeyMap1.png)
+![JourneMapGara](P1/journeyMap2.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
