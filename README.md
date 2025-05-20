@@ -119,7 +119,7 @@ Por ultimo tenemos una serie de ideas que se nos han ocurrido a nosotros, como e
 
 Ademas hemos realizado un mapa de empatia en el que nuestras personas cuentan lo que ven, lo que siente, dicen, piensan y escuchan, ademas de sus dolores y sus beneficios. Asi vemos como Armando se pregunta si deberia tener su propio huerto o como ve que han cerrado la fruteria de su barrio y que uno de sus dolores es si es el unico que se preocupa por el medio ambiente. Luego tenemos a Gara que escuha que las verduras llevan demasiados quimicos o como se queja del poco tiempo que tiene para salir a pasear y como uno de sus dolores es ver comercios locales cerrar.
 
-![Mapa de empatia](P2/Resources/Empathy_Map.png)
+![Mapa de empatia](P2/Resources/Empathy_Mapping.png)
     
 
 
