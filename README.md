@@ -130,7 +130,7 @@ Ademas hemos realizado un mapa de empatia en el que nuestras personas cuentan lo
 
 Como podemos ver nuestro proposito es cuidar a nuestros agricultores y al medio ambiente, ademas de a nuestros potenciales clientes gracias a reducir el gasto en alimentos frescos y a la vez aumentando el margen de ganancias de nuestros agricultores, ademas de ser mas transparentes con el origen del producto. Para hacer esto nos ponemos como objetivos a corto plazo el disponer de una plataforma con varios metodos de pago, ademas de añadir opciones de recogida en la ubicacion del agricultor o de fomentar la compra de productos mas sanos. A mas largo plazo, nos gustaria disponer de acuerdos con empresas de transporte verdes o crear mapas con las localizaciones de los distintos agricultores. De forma que los usuarios de nuestro producto, puedan buscar y comprar productos agricolas y que nuestros agricultores puedan vender su producto, entre otras acciones.
 
-![ScopeCanvas](P2/Resources/Scope_canvas.png)
+![ScopeCanvas](P2/Resources/Scope_Canvas.png)
 
 
 
