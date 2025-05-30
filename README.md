@@ -284,15 +284,16 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+![RealEye](P4/Realeye.png)
 
 Para la realización de la prueba se ha utilizado con realeye.io, una solución para realizar estudios de seguimiento ocular a distancia y analizar los datos desde su navegador web. Se ha realizado la prueba sobre el caso B a los usuarios que les correspondia y estos han sido los resultados:
 
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+![RealEye1](P4/EyeTrakingB/RealEye-heatmap-item-1.png)
+![RealEye2](P4/EyeTrakingB/RealEye-heatmap-item-2.png)
+![RealEye3](P4/EyeTrakingB/RealEye-heatmap-item-3.png)
+![RealEye4](P4/EyeTrakingB/RealEye-heatmap-item-4.png)
+![RealEye5](P4/EyeTrakingB/RealEye-heatmap-item-5.png)
+![RealEye6](P4/EyeTrakingB/RealEye-heatmap-item-6.png)
 
 
 ### 4.f Usability Report de B
