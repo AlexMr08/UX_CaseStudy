@@ -252,9 +252,9 @@ Para ver el proyecto en:
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Natalia       | M / 25   | T.Social    | Alta        | Emocional    | Móvil      | B 
+| Ana           | M / 27   | Farmacéutica| Media       | Racional     | Móvil      | B 
+| Pepe          | H / 60   | Mecanico    | Media       | Curioso      | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
@@ -285,7 +285,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para la realización de la prueba se ha utilizado con realeye.io, una solución para realizar estudios de seguimiento ocular a distancia y analizar los datos desde su navegador web. Se ha realizado la prueba sobre el caso B a los usuarios que les correspondia y estos han sido los resultados:
+
 
 
 ![experimento](img/experimentoET.png)  
