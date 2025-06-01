@@ -86,12 +86,15 @@ En base a las distintas estadisticas vemos como nuestra alternativa es mejor en 
 
 - Usability Review del caso B
 
-  ![Usability Review B](usabilityReviewB.pdf)
+  [Usability Review B](usabilityReviewB.pdf)
 
   Hemos realizado el usability review de B, omitiendo campos que no podemos comprobar en el prototipo, como la asistencia al usuario. De esta forma, obtenemos un resultado de 79, es decir, un resultado BUENO. 
   
 - Usability Report del Caso B, con toda la información recabada del caso B
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+Hemos realizado el usability report del caso B, es decir, de Granada Cooking.
+  [Usability Report B](P4_UsabReport_GranadaCookingdonebyDIU1_AlexMarcos.md)
 
 - Conclusiones
+
+Hemos aprendido a realizar un test A/B usando herramientas como Maze, un eye-tracker, formularios SUS y calificaciones NPS.
