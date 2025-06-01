@@ -10,12 +10,6 @@
 
 ### 30/05/2025
 
-
-
-
-
-[img Proyecto]
-
 [Granada Cooking](https://github.com/cgardia1409/UX_CaseStudy)
 
 ### Realizado por:
