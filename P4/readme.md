@@ -71,12 +71,12 @@
   ![eye tracker 6 A](EyeTrackingA/RealEye-heatmap-item-1.png)
   
 - Eye Tracking para B
-  ![eye tracker 1 B](./EyeTrackingB/RealEye-heatmap-item-1.png)
-  ![eye tracker 2 B](./EyeTrackingB/RealEye-heatmap-item-2.png)
-  ![eye tracker 3 B](./EyeTrackingB/RealEye-heatmap-item-3.png)
-  ![eye tracker 4 B](./EyeTrackingB/RealEye-heatmap-item-4.png)
-  ![eye tracker 5 B](./EyeTrackingB/RealEye-heatmap-item-5.png)
-  ![eye tracker 6 B](./EyeTrackingB/RealEye-heatmap-item-6.png)
+  ![eye tracker 1 B](./EyeTrakingB/RealEye-heatmap-item-1.png)
+  ![eye tracker 2 B](./EyeTrakingB/RealEye-heatmap-item-2.png)
+  ![eye tracker 3 B](./EyeTrakingB/RealEye-heatmap-item-3.png)
+  ![eye tracker 4 B](./EyeTrakingB/RealEye-heatmap-item-4.png)
+  ![eye tracker 5 B](./EyeTrakingB/RealEye-heatmap-item-5.png)
+  ![eye tracker 6 B](./EyeTrakingB/RealEye-heatmap-item-6.png)
   
 - Usability Report del Caso B, con toda la información recabada del caso B
 
