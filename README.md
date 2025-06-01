@@ -244,9 +244,8 @@ Para ver el proyecto en:
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
+Nuestro caso B, es un producto que busca crear una plataforma para reservar cursos gastronomicos y acceder a los cursos que ya hemos reservado, entre otras cosas. Este se llama Granada Cooking.
+Hemos elegido a 7 usuarios (8 contandonos a nosotros) que se han repartido de forma que 4 realizan el test A y 4 realizan el test B.
 
   | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
   | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -263,32 +262,33 @@ Para ver el proyecto en:
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
+Usaremos Maze para crear 2 test que deberan realizar los usuarios elegidos para cada prototipo, ademas 1 de ellos se sometera a un eye-tracker para ambos prototipos. Tambien usaremos un formulario SUS para obtener dicha valoracion de cada usuario y posteriormente obtener una media.
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Como podemos ver, los resultados son favorables para el caso A. Con una media de 83.75 frente al 72.5 de media en el caso B.
 
+[Resultados SUS](P4/SUS.xlsx)
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+  | GRUPO | Valoración NPS | Valoración media SUS | Tasa de finalizacion de tareas | Valoracion de diseño media (sobre 5) |
+  |-------|----------------|----------------------|--------------------------------|--------------------------------------|
+  | A     | 40             | 83.75                | 100%                           | 4.4                                  |
+  | B     | -25            | 72.5                 | 100%                           | 3.5                                  |
+
+  En base a los resultados obtenidos, podemos decir que la Opcion A es mejor que la Opcion B, sobre todo debido a la gran diferencia en el NPS.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 ![RealEye](P4/Realeye.png)
 
-Para la realización de la prueba se ha utilizado con realeye.io, una solución para realizar estudios de seguimiento ocular a distancia y analizar los datos desde su navegador web. Se ha realizado la prueba sobre el caso B a los usuarios que les correspondia y estos han sido los resultados:
+Para la realización de la prueba se ha utilizado con realeye.io y maze, una solución para realizar estudios de seguimiento ocular a distancia y analizar los datos desde su navegador web. Se ha realizado la prueba sobre el caso B a los usuarios que les correspondia y estos han sido los resultados:
 
 ![RealEye1](P4/EyeTrakingB/RealEye-heatmap-item-1.png)
 ![RealEye2](P4/EyeTrakingB/RealEye-heatmap-item-2.png)
@@ -297,16 +297,17 @@ Para la realización de la prueba se ha utilizado con realeye.io, una solución 
 ![RealEye5](P4/EyeTrakingB/RealEye-heatmap-item-5.png)
 ![RealEye6](P4/EyeTrakingB/RealEye-heatmap-item-6.png)
 
+[Reporte de Maze A](P4/report_agrored.pdf)
+
+[Reporte de Maze B](P4/report_granadaCooking.pdf)
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+[Reporte de usabilidad](/P4/P4_UsabReport_GranadaCookingdonebyDIU1_AlexMarcos.md)
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
+Tras realizar este cuarto paso, hemos visto como nuestro prototipo esta bastante bien y que asi nos lo han hecho ver los usuarios que han realizado los test del caso A, de forma que salvo una serie de mejoras puntuales, hemos realizado un trabajo bastante bueno a la hora de hacer el sistema usable.
 
 
 <br>
