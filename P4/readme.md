@@ -1,8 +1,5 @@
 # DIU - Practica 4, entregables
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
-
 - Users. Elección y características de los usuarios reclutados
 
   Tenemos un grupo de 8 usuarios (nosotros incluidos como grupo), que habran probado el prototipo A o B. 
@@ -26,14 +23,16 @@
 
   Como ya hemos mencionado, hemos usado tanto un eye-tracker como Maze para la realizacion de pruebas, pero nos centraremos en MAZE.
   Tras realizar la prueba con los 8 usuarios mencionados anteriormente este fue el resultado de ambos test.
+
   [Resultados A](report_agrored.pdf)
+  
   [Resultados B](report_granadaCooking.pdf)
 
   Podemos observar que todos los usuarios han completado la prueba de la reserva y que a ninguno le ha parecido dificil. Aunque si que vemos como a nivel de diseño, la opcion A tiene una calificacion bastante superior a la opcion B. Por ultimo, antes de calcular el NPM, vemos como en la opcion A no tenemos detractores, aunque si que tenemos usuarios neutrales, pero como en la B si que podemos observar que se reparte la muestra entre detractores, promotores y usuarios neutrales.
 
 - NPS
   
-    Hemos realizado el calculo del NPS dandonos como resultado que A tiene una valoracion (...) y B (...)
+    Hemos realizado el calculo del NPS dandonos como resultado que A tiene una valoracion de 40, es decir, buena y en B hemos obtenido, -25, que es el equivalente a un mal valor. Aun asi, dado que la muestra es muy pequeña, este valor podria mejorar mucho con mas clientes. En el caso A, nos hemos encontrado con 5 valoraciones, pero como no se tiene en cuenta las valoraciones neutras y la sobrante se encontraba aqui, no afecta al resultado final.
   
 - Realización del Cuestionario SUS para usuarios y casos A y B.
   
@@ -46,7 +45,7 @@
   | Alvaro        | 87.5       | A 
   | Maria         | 80        | A 
   | Pablo         | 80        | A 
-  | Jose Maria    | 87-5        | A
+  | Jose Maria    | 87.5        | A
   | Nosotros      | 82.5        | B 
   | Pepe          | 72.5        | B 
   | Natalia       | 60      | B 
@@ -58,11 +57,29 @@
 
   Realizaremos un A/B testing en base a los checklist de usabilidad, los test realizados en MAZE, una serie de pruebas realizadas con eye-trackers y un cuestionario SUS. Ademas en los test de MAZE ademas obtendremos los datos para calcular el NPS.
 
+  | GRUPO | Valoración NPS | Valoración media SUS | Tasa de finalizacion de tareas | Valoracion de diseño media (sobre 5) |
+  |-------|----------------|----------------|------|------|
+  | A     | 40           | 83.75              | 100%    | 4.4 |
+  | B     | -25           | 72.5              | 100%    | 3.5 |
+
+- Eye Tracking para A
+  ![eye tracker 1 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  ![eye tracker 2 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  ![eye tracker 3 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  ![eye tracker 4 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  ![eye tracker 5 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  ![eye tracker 6 A](EyeTrackingA/RealEye-heatmap-item-1.png)
+  
 - Eye Tracking para B
+  ![eye tracker 1 B](./EyeTrackingB/RealEye-heatmap-item-1.png)
+  ![eye tracker 2 B](./EyeTrackingB/RealEye-heatmap-item-2.png)
+  ![eye tracker 3 B](./EyeTrackingB/RealEye-heatmap-item-3.png)
+  ![eye tracker 4 B](./EyeTrackingB/RealEye-heatmap-item-4.png)
+  ![eye tracker 5 B](./EyeTrackingB/RealEye-heatmap-item-5.png)
+  ![eye tracker 6 B](./EyeTrackingB/RealEye-heatmap-item-6.png)
+  
 - Usability Report del Caso B, con toda la información recabada del caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+- Conclusiones
