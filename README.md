@@ -248,14 +248,16 @@ Para ver el proyecto en:
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| Natalia       | M / 25   | T.Social    | Alta        | Emocional    | Móvil      | B 
-| Ana           | M / 27   | Farmacéutica| Media       | Racional     | Móvil      | B 
-| Pepe          | H / 60   | Mecanico    | Media       | Curioso      | Web        | B 
-
+  | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+  | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+  | Alvaro        | H / 20   | Estudiante  | Media       | Introvertido | Web.       | A 
+  | Maria         | M / 52   | Delineante  | Media       | Tranquila    | Web        | A 
+  | Pablo         | H / 24   | Estudiante  | Baja        | Curioso      | Web        | A 
+  | Jose Maria    | H / 20   | Estudiante  | Alta        | Tranquilo    | Web        | A
+  | Nosotros      | H / 24   | Estudiantes | Alta        | Curioso      | Web        | B 
+  | Pepe          | H / 60   | Mecanico    | Media       | Curioso      | Web        | B 
+  | Natalia       | M / 25   | T.Social    | Alta        | Emocional    | Móvil      | B 
+  | Ana           | M / 27   | Farmacéutica| Media       | Racional     | Móvil      | B
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
